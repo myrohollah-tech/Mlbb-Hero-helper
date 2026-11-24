@@ -1,0 +1,6 @@
+{
+  "name": "MLBB Hero Coach",
+  "description": "همراه هوشمند مربیگری فارسی برای هیروهای Mobile Legends: Bang Bang با راهنمای بیلد، کانترپیک درفت و تحلیل اسکرینشات بازی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

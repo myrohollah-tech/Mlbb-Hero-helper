@@ -1,0 +1,130 @@
+<resources>
+    <string name="app_name">MLBB Hero Coach</string>
+    <string name="app_brand_fa">مربی هوشمند موبایل لجندز</string>
+
+    <!-- Bottom Navigation Tabs -->
+    <string name="nav_hero_guide">راهنمای هیرو</string>
+    <string name="nav_draft_counter">کانترپیک</string>
+    <string name="nav_match_analyzer">تحلیل اسکرینشات</string>
+
+    <!-- Hero Guide Screen -->
+    <string name="hero_guide_banner_title">راهنمای هیرو و بیلد متا</string>
+    <string name="hero_guide_banner_subtitle">بیلد، امبلم و استراتژی به‌روز با جستجوی زنده گوگل</string>
+    <string name="hero_guide_live_badge">متصل به جستجوی زنده گوگل</string>
+    <string name="hero_search_placeholder">جستجوی هیرو (فارسی یا انگلیسی)…</string>
+    <string name="hero_custom_query_cta">تحلیل متای «%1$s»</string>
+    <string name="filter_role_label">نقش (Role)</string>
+    <string name="filter_lane_label">مسیر / لاین (Lane)</string>
+    <string name="filter_all">همه</string>
+    <string name="filter_reset_all">پاک کردن فیلترها</string>
+    <string name="hero_count_label">%1$d هیرو در فهرست</string>
+    <string name="hero_view_grid_cd">نمایش شبکه‌ای کارت‌ها</string>
+    <string name="hero_view_list_cd">نمایش لیستی کارت‌ها</string>
+    <string name="hero_card_open_guide">بیلد متا</string>
+    <string name="hero_empty_title">هیرویی با این فیلتر پیدا نشد</string>
+    <string name="hero_empty_hint">فیلترها را تغییر دهید یا نام هیرو را مستقیماً برای تحلیل زنده جستجو کنید.</string>
+    <string name="hero_detail_loading_title">در حال جستجوی آخرین متای %1$s…</string>
+    <string name="hero_detail_loading_subtitle">بررسی بیلدهای برتر، امبلم و تغییرات پچ جدید از منابع زنده وب</string>
+    <string name="hero_detail_refresh">به‌روزرسانی متا</string>
+    <string name="hero_detail_back">بازگشت به لیست هیروها</string>
+    <string name="hero_section_tier">رتبه در متای فعلی</string>
+    <string name="hero_section_core_build">بیلد اصلی (Core Items)</string>
+    <string name="hero_section_situational_build">آیتم‌های موقعیتی</string>
+    <string name="hero_section_emblem">امبلم و تلنت‌ها</string>
+    <string name="hero_section_spell">اسپل نبرد (Battle Spell)</string>
+    <string name="hero_section_combo">ترتیب کمبو اسکیل‌ها</string>
+    <string name="hero_section_game_phases">استراتژی مراحل بازی</string>
+    <string name="phase_early">ارلی گیم</string>
+    <string name="phase_mid">مید گیم</string>
+    <string name="phase_late">لیت گیم</string>
+    <string name="hero_section_counters">کانترها (خطرناک برای شما)</string>
+    <string name="hero_section_synergies">هم‌تیمی‌های عالی (سینرژی)</string>
+    <string name="hero_section_sources">منابع جستجوی زنده گوگل</string>
+
+    <!-- Draft & Counter-Pick Screen -->
+    <string name="draft_title">کانترپیک و درفت هوشمند</string>
+    <string name="draft_subtitle">تا ۵ هیروی تیم حریف و نقش خود را انتخاب کنید تا بهترین ضدحمله را ببینید</string>
+    <string name="draft_enemy_team_title">ترکیب تیم حریف (%1$d از ۵)</string>
+    <string name="draft_clear_all">پاک کردن</string>
+    <string name="draft_add_enemy">افزودن هیرو</string>
+    <string name="draft_your_role_title">نقش دلخواه شما</string>
+    <string name="draft_analyze_cta">پیشنهاد ۳ کانترپیک برتر</string>
+    <string name="draft_analyzing_title">در حال تحلیل ترکیب تیم حریف…</string>
+    <string name="draft_analyzing_subtitle">ارزیابی دمیج، سی‌سی و نقاط ضعف ترکیب دشمن برای انتخاب بهترین کانتر</string>
+    <string name="draft_enemy_summary_title">تحلیل ترکیب دشمن</string>
+    <string name="draft_top_picks_title">۳ هیروی پیشنهادی برای کانترپیک</string>
+    <string name="draft_counter_items_title">آیتم‌های کلیدی کانتر (ضد حریف)</string>
+    <string name="draft_picker_title">انتخاب هیروی حریف</string>
+    <string name="draft_empty_hint">ابتدا حداقل ۱ هیروی حریف را به اسلات‌های بالا اضافه کنید.</string>
+
+    <!-- Match Screenshot Analyzer Screen -->
+    <string name="match_title">تحلیل بازی با اسکرینشات</string>
+    <string name="match_subtitle">اسکرینشات جدول پایان بازی را بارگذاری کنید تا مربی هوشمند اشتباهات بیلد و عملکرد شما را بررسی کند</string>
+    <string name="match_pick_image_cta">انتخاب اسکرینشات جدول پایان بازی</string>
+    <string name="match_change_image_cta">تغییر تصویر</string>
+    <string name="match_hero_played_label">کدام هیرو را بازی کردید؟</string>
+    <string name="match_hero_played_hint">نام هیرو را انتخاب یا تایپ کنید (مثلاً Beatrix یا بئاتریکس)</string>
+    <string name="match_select_from_list">انتخاب از لیست</string>
+    <string name="match_analyze_cta">شروع تحلیل هوشمند بازی</string>
+    <string name="match_analyzing_title">در حال خواندن جدول امتیازات و تحلیل بیلد…</string>
+    <string name="match_analyzing_subtitle">استخراج KDA، گلد، آیتم‌ها و ترکیب حریف از تصویر شما</string>
+    <string name="match_stats_title">خلاصه استخراج‌شده از بازی</string>
+    <string name="match_kda_label">KDA</string>
+    <string name="match_gold_label">گلد</string>
+    <string name="match_result_label">نتیجه</string>
+    <string name="match_your_items_label">آیتم‌های شما</string>
+    <string name="match_enemy_lineup_label">تیم حریف</string>
+    <string name="match_strengths_title">۳ نقطه قوت کلیدی</string>
+    <string name="match_mistakes_title">۳ اشتباه مهم و نقد آیتم‌ها</string>
+    <string name="match_next_goal_title">هدف طلایی برای بازی بعدی</string>
+
+    <!-- Follow-Up Chat -->
+    <string name="chat_section_title">گفتگوی تکمیلی با مربی</string>
+    <string name="chat_section_subtitle">هر سوالی درباره این بازی دارید بپرسید</string>
+    <string name="chat_input_placeholder">مثلاً: چرا توی لیت گیم باختم؟</string>
+    <string name="chat_send_cd">ارسال پیام</string>
+    <string name="chat_chip_late_game">چرا توی لیت گیم باختم؟</string>
+    <string name="chat_chip_defense_item">کدوم آیتم دفاعی بهتر بود؟</string>
+    <string name="chat_chip_teamfight">توی تیم‌فایت چطور بازی می‌کردم؟</string>
+
+    <!-- Common Actions & Errors -->
+    <string name="retry_cta">تلاش مجدد</string>
+    <string name="error_title">خطا در ارتباط با مربی هوشمند</string>
+    <string name="cd_banner_art">تصویر تزئینی میدان نبرد</string>
+    <string name="cd_selected_screenshot">اسکرینشات انتخاب‌شده بازی</string>
+    <string name="cd_remove_hero">حذف هیرو</string>
+    <string name="cd_close_dialog">بستن</string>
+
+    <!-- Top Bar AI Tools -->
+    <string name="tool_coach_chat">چت مربی</string>
+    <string name="tool_image_studio">استودیو تصویر</string>
+
+    <!-- Multi-turn Gemini Chatbot -->
+    <string name="chatbot_title">چت هوشمند با مربی MLBB</string>
+    <string name="chatbot_subtitle">مکالمه چندمرحله‌ای با حفظ تاریخچه گفتگو و انتخاب نقش مربی</string>
+    <string name="chatbot_reset_cd">شروع گفتگوی جدید</string>
+    <string name="chatbot_input_hint">سوال خود را درباره هیرو، بیلد، روتیشن یا رنک‌آپ بپرسید…</string>
+    <string name="chatbot_persona_coach">مربی کل بازی</string>
+    <string name="chatbot_persona_macro">استراتژیست ماکرو</string>
+    <string name="chatbot_persona_fast">پاسخ سریع متا</string>
+    <string name="chatbot_starter_1">چطور با سولو کیو به میتیک برسم؟</string>
+    <string name="chatbot_starter_2">بهترین زمان گرفتن لورد و تورتل کی هست؟</string>
+    <string name="chatbot_starter_3">تفاوت Sea Halberd و Dominance Ice چیه؟</string>
+
+    <!-- Image Studio (Create & Edit with gemini-nano-banana-2.1) -->
+    <string name="studio_title">استودیو ساخت و ویرایش تصویر</string>
+    <string name="studio_subtitle">ساخت آواتار، بنر گیمینگ و ویرایش تصاویر با هوش مصنوعی</string>
+    <string name="studio_prompt_label">دستور ساخت یا ویرایش تصویر</string>
+    <string name="studio_prompt_hint">توصیف تصویر دلخواه یا تغییرات مورد نظر را بنویسید…</string>
+    <string name="studio_pick_source_cta">انتخاب تصویر برای ویرایش (اختیاری)</string>
+    <string name="studio_clear_source">حذف تصویر مرجع</string>
+    <string name="studio_generate_cta">ساخت تصویر جدید</string>
+    <string name="studio_edit_cta">اعمال ویرایش روی تصویر</string>
+    <string name="studio_use_for_edit_cta">ویرایش همین تصویر</string>
+    <string name="studio_loading_title">در حال خلق تصویر با هوش مصنوعی…</string>
+    <string name="studio_loading_subtitle">این فرآیند ممکن است بین ۳۰ تا ۶۰ ثانیه زمان ببرد</string>
+    <string name="studio_result_title">تصویر ساخته‌شده</string>
+    <string name="studio_preset_1">آواتار گیمینگ شوالیه تاریکی با شمشیر فیروزه‌ای و زره طلایی</string>
+    <string name="studio_preset_2">لوگوی تیم اسپورتس با اژدهای طلایی درخشان روی پس‌زمینه سرمه‌ای</string>
+    <string name="studio_preset_3">افزودن افکت رعدوبرق فیروزه‌ای و نورپردازی سینمایی به تصویر</string>
+</resources>
